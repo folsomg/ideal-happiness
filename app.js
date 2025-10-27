@@ -1,2 +1,2 @@
-// app.js
+// app.js // updated
 // Generated content // updated
